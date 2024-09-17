@@ -1,0 +1,3210 @@
+[
+  {
+    "id": 1,
+    "title": "Abstracto Oro Clasico",
+    "price": "1,100.00 MXN",
+    "image": "img/a1.png",
+    "category": "abstracto"
+  },
+  {
+    "id": 2,
+    "title": "Abstracto Azul claro y oro",
+    "price": "1,100.00 MXN",
+    "image": "img/a2.png",
+    "category": "abstracto"
+  },
+  {
+    "id": 3,
+    "title": "Espontaneidad",
+    "price": "1,100.00 MXN",
+    "image": "img/a3.png",
+    "category": "abstracto"
+  },
+  {
+  "id": 4,
+  "title": "Tomando el Sol",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/TomandoSol.jpg",
+  "category": "abstracto"
+  },
+  {
+    "id": 5,
+    "title": "Curvo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/curvo.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 6,
+    "title": "Abstracto Naranja",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/naranja.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 7,
+    "title": "Abstracto Azul Nuevo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/azul.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 8,
+    "title": "Adiós Para Siempre",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/adios.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 9,
+    "title": "Abstracto Azul y Naranja",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/azul-naranja.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 10,
+    "title": "Abstracto Azul Espacial",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/espacial.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 11,
+    "title": "Otro Mundo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mundo.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 12,
+    "title": "Manzana Multiversal",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/manzana.webp",
+    "category": "abstracto"
+  },
+  {
+    "id": 13,
+    "title": "Elefantes es 4k",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/elefante.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 14,
+    "title": "Beatenberg",
+    "price": "980.00 MXN",
+    "image": "productsImg/Beatenberg.jpg",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 15,
+    "title": "Zig Zag",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/ZigZag.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 16,
+    "title": "Cascada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cascada.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 17,
+    "title": "Árboles en la Montaña",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/montaña.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 18,
+    "title": "Telaraña",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/telaraña.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 19,
+    "title": "Rosa Blanca",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/rosa-blanca.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 20,
+    "title": "Rosa",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Rosa.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 21,
+    "title": "Rosa Desgastada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/RosaDesgastada.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 22,
+    "title": "Rayos de Sol",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/RAYOS.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 23,
+    "title": "Racimo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Racimo.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 24,
+    "title": "Plano Detalle de Cebra",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/CEBRA.webp",
+    "category": "blanco y negro"
+  },
+  {
+    "id": 25,
+    "title": "Noche Estrellada Sobre el Ródano",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/noche.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 26,
+    "title": "Noche Estrellada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/NocheEstrellada.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 27,
+    "title": "La Gran Ola de Kanagawa",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Kanagawa.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 28,
+    "title": "Amante del Café",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cafe.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 29,
+    "title": "Mapa América",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mapa.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 30,
+    "title": "Pareja de Gatos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/gatos.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 31,
+    "title": "Pareja de Leones 2",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/leones.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 32,
+    "title": "Pareja de Leones",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/leones2.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 33,
+    "title": "Nieve y asia",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/nieve.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 34,
+    "title": "Montaña Asiatica",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/asiatica.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 35,
+    "title": "Angelitos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Angelitos.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 36,
+    "title": "Amanecer Asiatico",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amanecer.webp",
+    "category": "Clasicos"
+  },
+  {
+    "id": 37,
+    "title": "Mandala en foto",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mandela.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 38,
+    "title": "Templo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/templos.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 39,
+    "title": "Ornamento",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/ornamento.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 40,
+    "title": "Neón",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Neón.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 41,
+    "title": "Prestigio",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Prestigio.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 42,
+    "title": "Jade",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Jade.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 43,
+    "title": "Perfiles",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Perfiles.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 44,
+    "title": "Animación",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Animación.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 45,
+    "title": "Marea",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Marea.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 46,
+    "title": "Elegancia",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Elegancia.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 47,
+    "title": "Muro",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Muro.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 48,
+    "title": "Insignia",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Insignia.webp",
+    "category": "Mandela"
+  },
+  {
+    "id": 49,
+    "title": "Anime 10",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/anime.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 50,
+    "title": "Vaquero de juguete",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/vaquero.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 51,
+    "title": "Silueta Super Saiyajin",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/goku.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 52,
+    "title": "Hatsune Miku",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/miku.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 53,
+    "title": "Sketch",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Sketch.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 54,
+    "title": "Arcade",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Arcade.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 55,
+    "title": "Naruto Primer Plano",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/naruto.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 56,
+    "title": "Naruto Jutsu",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/jutsu.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 57,
+    "title": "Naruto B&N",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Naruto B&N.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 58,
+    "title": "Ultra Instinto",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/ultra.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 59,
+    "title": "Poder del Árbol del Universo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/arbol.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 60,
+    "title": "Antes y Después",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/antes.webp",
+    "category": "Animación"
+  },
+  {
+    "id": 61,
+    "title": "Piramide de Chichén Itzá",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mexico.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 62,
+    "title": "Escritos Mexicanos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mexicanos.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 63,
+    "title": "Cotorro",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Cotorro.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 64,
+    "title": "Pavo Real",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/pavo.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 65,
+    "title": "Serpientes",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Serpientes.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 66,
+    "title": "Nuestro Angel",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/angel.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 67,
+    "title": "Atardecer en México",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amexico.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 68,
+    "title": "La ruta",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/ruta.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 69,
+    "title": "Piramide y Serpiente",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/piramide.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 70,
+    "title": "Atardecer Mexicano",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/atamexico.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 71,
+    "title": "Piramide",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Piramides.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 72,
+    "title": "Revolucion",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Revolucion.webp",
+    "category": "Paises"
+  },
+  {
+    "id": 73,
+    "title": "Nebulosa Naranja y Violeta",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/nevulosa.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 74,
+    "title": "Meditación azul",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/meditacion.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 75,
+    "title": "Amor en el espacio",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amor.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 76,
+    "title": "Luna",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Luna.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 77,
+    "title": "Agujero en Espiral",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/espiral.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 78,
+    "title": "Túnel del Tiempo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/tunel.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 79,
+    "title": "Transformación de la Luna",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/transformacion.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 80,
+    "title": "Vía Láctea 2",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/via2.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 81,
+    "title": "Cielo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Cielo.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 82,
+    "title": "Supergigante Roja",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/roja.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 83,
+    "title": "Agujero Blanco",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/blanco.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 84,
+    "title": "Amanecer en la Atmósfera",
+    "price": "980.00 MXN",
+    "image": "productsImg/atmosfera.webp",
+    "category": "Universo"
+  },
+  {
+    "id": 85,
+    "title": "León Rostro Hd",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/leonn.jpg",
+    "category": "Animales"
+  },
+  {
+    "id": 86,
+    "title": "Caballería",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Caballería.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 87,
+    "title": "Dibujo de un Colibrí",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/colibri.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 88,
+    "title": "Primer Plano de Cebra",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cebras.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 89,
+    "title": "Piel de Cebra",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/piel.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 90,
+    "title": "Olfateo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Olfateo.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 91,
+    "title": "Leona",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Leona.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 92,
+    "title": "Ilustración de Tigre",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/tigre.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 93,
+    "title": "Ilustración de Lobo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/lobo.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 94,
+    "title": "Ilustración de León",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/iluleon.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 95,
+    "title": "Gato Plano Detalle",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/gato.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 96,
+    "title": "Gato Montés",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/montes.webp",
+    "category": "Animales"
+  },
+  {
+    "id": 97,
+    "title": "Ola de mar",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mar.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 98,
+    "title": "Flor Vintage",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/flor.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 99,
+    "title": "Hojas de Otoño",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/hojas.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 100,
+    "title": "Enredadera de Flores",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/flores.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 101,
+    "title": "Montaña Nevada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/nevada.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 102,
+    "title": "Flores y pétalos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/petalos.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 103,
+    "title": "Pampas chicas",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/pampas.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 104,
+    "title": "Flores en agua",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/agua.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 105,
+    "title": "Life Tree 2",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/tree.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 106,
+    "title": "Arbol de la vida",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/vida.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 107,
+    "title": "Hoja Verde",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/verde.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 108,
+    "title": "Gran Cañon",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cañon.webp",
+    "category": "Naturaleza"
+  },
+  {
+    "id": 109,
+    "title": "Atardecer",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/atardecer.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 110,
+    "title": "Puesta de Sol",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/puesta.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 111,
+    "title": "Playa",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/playa.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 112,
+    "title": "Centro de Abiyán",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/centro.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 113,
+    "title": "Panorama del Pueblo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/pueblo.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 114,
+    "title": "Montes Huang",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/montes2.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 115,
+    "title": "Los 12 Apóstoles",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/apostoles.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 116,
+    "title": "El Bosque y las Auroras",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/bosques.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 117,
+    "title": "Jammu y Kashmir",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/jammu.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 118,
+    "title": "Cascada en la Montaña",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cascadas.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 119,
+    "title": "Parque Nacional Denali",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/parque.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 120,
+    "title": "Playa",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/playa2.webp",
+    "category": "Paisajes"
+  },
+  {
+    "id": 121,
+    "title": "Niños futbol",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/niños.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 122,
+    "title": "Brazuca",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/brazuca.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 123,
+    "title": "Petco Park",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/park.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 124,
+    "title": "Atardecer en la Cancha",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cancha.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 125,
+    "title": "Pelotas de Beisbol",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/pelotas.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 126,
+    "title": "Estadio de Basquetbol",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/estadio.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 127,
+    "title": "Tiro de Fuego",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/fuego.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 128,
+    "title": "Pintura de Kobe",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/kobe.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 129,
+    "title": "Las Vegas Raiders",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/vegas.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 130,
+    "title": "Houston Texans",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/houston.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 131,
+    "title": "Volksparkstadion",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Volksparkstadion.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 132,
+    "title": "Canasta",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Canasta.webp",
+    "category": "Deportes"
+  },
+  {
+    "id": 134,
+    "title": "Cuadro Personalizado 100x80 cm (con Bastidor)",
+    "price": "1,950.00 MXN",
+    "image": "productsImg/paquete1.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 135,
+    "title": "Retrato personalizado en cuadro canvas",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/perzonalizado.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 136,
+    "title": "2 cuadros personalizados (MDF) de 30x20 cm",
+    "price": "500.00 MXN",
+    "image": "productsImg/cuadros.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 137,
+    "title": "Cuadro personalizado (MDF) de 30x40 cm",
+    "price": "500.00 MXN",
+    "image": "productsImg/mdf.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 138,
+    "title": "Cuadro Personalizado 60x40 cm (con Bastidor)",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/bastidor.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 139,
+    "title": "Cuadro Personalizado 70x50 cm (con Bastidor)",
+    "price": "1,250.00 MXN",
+    "image": "productsImg/70.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 140,
+    "title": "Cuadro Personalizado 90x60 cm (con Bastidor)",
+    "price": "1,450.00 MXN",
+    "image": "productsImg/90.webp",
+    "category": "Paquetes" 
+  },
+  {
+    "id": 141,
+    "title": "Mujer y bebe",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mujer.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 142,
+    "title": "Hombre de metal",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/hombre.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 143,
+    "title": "Astronauta y el espacio",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/espacio.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 144,
+    "title": "Santi y su mundo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/santi.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 145,
+    "title": "Novios en rojo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/novios.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 146,
+    "title": "Novios en amarillo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amarillo.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 147,
+    "title": "Escultura en Azul",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/escultura.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 148,
+    "title": "Angel en el universo",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/angelU.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 149,
+    "title": "No More Crimes",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/crimen.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 150,
+    "title": "Catrina by Miguel Mauro",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/catrina.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 151,
+    "title": "Brandon by Miguel Mauro",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/brandon.webp",
+    "category": "Edicion Limitada" 
+  },
+  {
+    "id": 152,
+    "title": "2 cuadros personalizados (MDF) de 30x20 cm",
+    "price": "500.00 MXN",
+    "image": "productsImg/cuadros.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 153,
+    "title": "Cuadro personalizado (MDF) de 30x40 cm",
+    "price": "500.00 MXN",
+    "image": "productsImg/mdf.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 154,
+    "title": "Cuadro Personalizado 60x40 cm (con Bastidor)",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/bastidor.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 155,
+    "title": "Cuadro Personalizado 70x50 cm (con Bastidor)",
+    "price": "1,250.00 MXN",
+    "image": "productsImg/70.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 156,
+    "title": "Cuadro Personalizado 90x60 cm (con Bastidor)",
+    "price": "1,450.00 MXN",
+    "image": "productsImg/90.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 157,
+    "title": "Cuadro Personalizado 100x80 cm (con Bastidor)",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/paquete1.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 158,
+    "title": "Retrato personalizado en cuadro canvas",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/perzonalizado.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 159,
+    "title": "Corazon con noche de estrellas",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/corazon.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 160,
+    "title": "Familia fotos en corazón",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/familia.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 161,
+    "title": "Familia collage cielo rosa",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/cieloRosa.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 162,
+    "title": "Caritas bebe",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/caritas.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 163,
+    "title": "Collage para amigos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amigos.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 164,
+    "title": "Collage puro amors",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/amores.webp",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 165,
+    "title": "Personalizado Para Mami",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mama.jpg",
+    "category": "Personalizado" 
+  },
+  {
+    "id": 166,
+    "title": "Cuadro Palabra Mamá con Imágenes",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/mama2.jpg",
+    "category": "Personalizado"
+  },
+  {
+    "id": 167,
+    "title": "Manos de colores una pieza",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/manos.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 168,
+    "title": "Noche Estrellada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/NocheEstrellada.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 169,
+    "title": "Triangulos rojos",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/triangulos.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 170,
+    "title": "Nueva noche estrellada",
+    "price": "950.00 MXN",
+    "image": "productsImg/nuevaNoche.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 171,
+    "title": "Cuatro mujeres",
+    "price": "1,200.00 MXN",
+    "image": "productsImg/mujeres.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 172,
+    "title": "Abstracto Negro con Oro",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/negroOro.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 173,
+    "title": "Dorado abstracto",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/doradoA.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 174,
+    "title": "Tigres",
+    "price": "1,150.00 MXN",
+    "image": "productsImg/tigres.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 175,
+    "title": "Las mujeres de Gustav",
+    "price": "1,200.00 MXN",
+    "image": "productsImg/gustav.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 176,
+    "title": "Mapa Mundi Nuevo",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/mapaMundi.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 177,
+    "title": "hoja verde",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/hojasVerdes.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 178,
+    "title": "Abstracto negro crema",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/crema.webp",
+    "category": "Liquidacion"
+  },
+  {
+    "id": 179,
+    "title": "2 cuadros personalizados (MDF) de 30x20 cm",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/cuadros.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 180,
+    "title": "Cuadro personalizado (MDF) de 30x40 cm",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/mdf.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 181,
+    "title": "Cuadro Personalizado 70x50 cm (con Bastidor)",
+    "price": "1,050.00 MXN",
+    "image": "productsImg/70.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 182,
+    "title": "Cuadro Personalizado 90x60 cm (con Bastidor)",
+    "price": "1,450.00 MXN",
+    "image": "productsImg/90.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 183,
+    "title": "Cuadro Personalizado 100x80 cm (con Bastidor)",
+    "price": "1,950.00 MXN",
+    "image": "productsImg/paquete1.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 184,
+    "title": "Retrato personalizado en cuadro canvas",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/perzonalizado.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 185,
+    "title": "Colibrí Artista",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Colibrí Artista.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 186,
+    "title": "Abstracto gris concha",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/concha.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 187,
+    "title": "Nuestra Virgen",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Nuestra Virgen.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 188,
+    "title": "Alas del abuelo una pieza",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Alas del abuelo una pieza.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 189,
+    "title": "Abstracto Oro Clasico",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Abstracto Oro Clasico.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 190,
+    "title": "Noche Estrellada",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/NocheEstrellada.webp",
+    "category": "Mas Vendido"
+  },
+  {
+    "id": 191,
+    "title": "Elefante colores pastel",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Elefante colores pastel.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 192,
+    "title": "Mujer y flores pastel",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Mujer y flores pastel.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 193,
+    "title": "Nuevo colibri 1",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Nuevo colibri 1.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 194,
+    "title": "León Neón",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/León Neón.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 195,
+    "title": "Mujer con flores pastel",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Mujer con flores pastel.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 196,
+    "title": "Abuelo con saco de oro",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Abuelo con saco de oro.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 197,
+    "title": "Nuevo colibri 2",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Nuevo colibri 2.webp",
+    "category": "Lo nuevo"
+  },
+  {
+    "id": 198,
+    "title": "Chica con explosión de colores",
+    "price": "1,100.00 MXN",
+    "image": "productsImg/Chica con explosión de colores.webp",
+    "category": "Lo nuevo"
+},
+{
+  "id": 199,
+  "title": "Bubble gum pop art Rosa",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bubble gum pop art Rosa.webp",
+  "category": "Lo nuevo"
+},
+{
+  "id": 200,
+  "title": "Elefante pastel azul 2",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Elefante pastel azul 2.webp",
+  "category": "Lo nuevo"
+},
+{
+  "id": 201,
+  "title": "Bubble Gum 2",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bubble Gum 2.webp",
+  "category": "Lo nuevo"
+},
+{
+  "id": 202,
+  "title": "Mujer naranja",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Mujer naranja.webp",
+  "category": "Lo nuevo"
+},
+{
+  "id": 203,
+  "title": "Nacimiento",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nacimiento.webp",
+  "category": "abstracto"
+},
+{
+  "id": 204,
+  "title": "Glitch Blanco y Negro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Glitch Blanco y Negro.webp",
+  "category": "abstracto"
+},
+{
+  "id": 205,
+  "title": "Aura",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Aura.webp",
+  "category": "abstracto"
+},
+{
+  "id": 206,
+  "title": "Fragmentación de Emociones",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fragmentación de Emociones.webp",
+  "category": "abstracto"
+},
+{
+  "id": 207,
+  "title": "Plátano",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Plátano.webp",
+  "category": "abstracto"
+},
+{
+  "id": 208,
+  "title": "Río Abstracto",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Río Abstracto.webp",
+  "category": "abstracto"
+},
+{
+  "id": 209,
+  "title": "Cinta de Moebius Azul",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cinta de Moebius Azul.webp",
+  "category": "abstracto"
+},
+{
+  "id": 210,
+  "title": "Cinta de Moebius Rosa",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cinta de Moebius Rosa.webp",
+  "category": "abstracto"
+},
+{
+  "id": 211,
+  "title": "Mano Abstracta",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Mano Abstracta.webp",
+  "category": "abstracto"
+},
+{
+  "id": 212,
+  "title": "Nueva Galaxia",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nueva Galaxia.jpg",
+  "category": "abstracto"
+},
+{
+  "id": 213,
+  "title": "Fe Esperanza Amor Playa",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fe Esperanza Amor Playa.webp",
+  "category": "abstracto"
+},
+{
+  "id": 214,
+  "title": "Abstracto Morado",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Abstracto Morado.webp",
+  "category": "abstracto"
+},
+{
+  "id": 215,
+  "title": "Abstracto Verde y Oro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Abstracto Verde y Oro.webp",
+  "category": "abstracto"
+},
+{
+  "id": 216,
+  "title": "Explosión de colores",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Explosion de colores.webp",
+  "category": "abstracto"
+},
+{
+  "id": 217,
+  "title": "Flores Naranjas con Gris",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Flores Naranjas con Gris.webp",
+  "category": "abstracto"
+},
+{
+  "id": 218,
+  "title": "Nuevo tenue con oro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nuevo tenue con oro.webp",
+  "category": "abstracto"
+},
+{
+  "id": 219,
+  "title": "Líquido con otros colores",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Liquido con otros colores.webp",
+  "category": "abstracto"
+},
+{
+  "id": 220,
+  "title": "Abstracta",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Abstracta.webp",
+  "category": "abstracto"
+},
+{
+  "id": 221,
+  "title": "Expresión",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Expresión.webp",
+  "category": "abstracto"
+},
+{
+  "id": 222,
+  "title": "Pincelazos",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pincelasos.webp",
+  "category": "abstracto"
+},
+{
+  "id": 223,
+  "title": "Taches",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Taches.webp",
+  "category": "abstracto"
+},
+{
+  "id": 224,
+  "title": "Borroso",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Borroso.webp",
+  "category": "abstracto"
+},
+{
+  "id": 225,
+  "title": "Grafiti",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Grafiti.webp",
+  "category": "abstracto"
+},
+{
+  "id": 226,
+  "title": "Textura",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Textura.webp",
+  "category": "abstracto"
+},
+{
+  "id": 227,
+  "title": "Triángulos",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Triángulos.webp",
+  "category": "abstracto"
+},
+{
+  "id": 228,
+  "title": "Nueva noche estrellada",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/nuevaNoche.webp",
+  "category": "abstracto"
+},
+{
+  "id": 229,
+  "title": "Espectro",
+  "price": "980.00 MXN",
+  "image": "productsImg/Espectro.webp",
+  "category": "abstracto"
+},
+{
+  "id": 230,
+  "title": "El Blanco con el Negro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/El Blanco con el Negro.webp",
+  "category": "abstracto"
+},
+{
+  "id": 231,
+  "title": "Primer Plano de Cebra",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Primer Plano de Cebra.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 232,
+  "title": "Porsche Targa",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Porsche Targa.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 233,
+  "title": "Pluma",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pluma.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 234,
+  "title": "Plaza de San Pedro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Plaza de San Pedro.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 235,
+  "title": "Playa de Madeira",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Playa de Madeira.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 236,
+  "title": "Pintura al Óleo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pintura al Óleo.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 237,
+  "title": "Piel de Cebra",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Piel de Cebra.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 238,
+  "title": "Paisaje Urbano",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje Urbano.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 239,
+  "title": "Patrón",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Patrón.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 240,
+  "title": "Paisaje de Invierno",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje de Invierno.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 241,
+  "title": "Olfateo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Olfateo.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 242,
+  "title": "Nubes en la Sierra",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nubes en la Cierra.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 243,
+  "title": "Muelle",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Muelle.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 244,
+  "title": "Monumento",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Monumento.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 245,
+  "title": "Monte Rainier",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Monte Rainier.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 246,
+  "title": "Media Luna",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Media Luna.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 247,
+  "title": "Luces de la Ciudad",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Luces de la Ciudad.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 248,
+  "title": "Lirio de Agua",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lirio de Agua.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 249,
+  "title": "Leona",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Leona.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 250,
+  "title": "Kuala Lumpur",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Kuala Lumpur.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 251,
+  "title": "Islandia",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Islandia.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 252,
+  "title": "Ilustración de Tigre",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Ilustración de Tigre.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 253,
+  "title": "Ilustración de Lobo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Ilustración de Lobo.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 254,
+  "title": "Ilustración de León",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Ilustración de León.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 255,
+  "title": "Gato Plano Detalle",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Gato Plano Detalle.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 256,
+  "title": "Gato Montés",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Gato Montés.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 257,
+  "title": "Gato Enfadado",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Gato Enfadado.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 258,
+  "title": "Galope",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Galope.webp",
+  "category": "blanco y negro"
+},
+{
+  "id": 259,
+  "title": "Budha Dorado",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Budha Dorado.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 260,
+  "title": "Vista Desde la Ventana del Estudio de Vincent en Invierno - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vista Desde la Ventana del Estudio de Vincent en Invierno - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 261,
+  "title": "Virgen del Clavel - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Virgen del Clavel - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 262,
+  "title": "Virgen de las Rocas - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Virgen de las Rocas - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 263,
+  "title": "Vampiro - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vampiro - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 264,
+  "title": "Vacas en el Prado - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vacas en el Prado - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 265,
+  "title": "Un Paisaje de Cosecha con Carro Azul - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Un Paisaje de Cosecha con Carro Azul - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 266,
+  "title": "Un Cangrejo Boca Arriba - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Un Cangrejo Boca Arriba - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 267,
+  "title": "Trigal con Cuervos - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Trigal con Cuervos - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 268,
+  "title": "Tres Niños - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Tres Niños - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 269,
+  "title": "Torvald Stang y Edvard Munch - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Torvald Stang y Edvard Munch - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 270,
+  "title": "Tarde - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Tarde - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 271,
+  "title": "Sol Naciente - Claude Monet",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Sol Naciente - Claude Monet.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 272,
+  "title": "Sauce Desmochado - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Sauce Desmochado - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 273,
+  "title": "San Juan Bautista - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/San Juan Bautista - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 274,
+  "title": "San Jerónimo en el Desierto - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/San Jerónimo en el Desierto - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 275,
+  "title": "Salvador Mundo - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Salvador Mundo - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 276,
+  "title": "Rosas - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rosas - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 277,
+  "title": "Retrato de un Músico - Leonardo da Vinci",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Retrato de un Músico - Leonardo da Vinci.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 278,
+  "title": "Pubertad - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pubertad - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 279,
+  "title": "Primeros Pasos - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Primeros Pasos - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 280,
+  "title": "Primavera - Claude Monet",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Primavera - Claude Monet.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 281,
+  "title": "Patos y Pavos en la Nieve - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Patos y Pavos en la Nieve - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 282,
+  "title": "Paisaje de Saint-Rémy - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje de Saint-Rémy - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 283,
+  "title": "Paisaje de Invierno, Thüringen - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje de Invierno, Thüringen - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 284,
+  "title": "Paisaje al Anochecer - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje al Anochecer - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 285,
+  "title": "Orilla con Casa Roja - Edvard Munch",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Orilla con Casa Roja - Edvard Munch.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 286,
+  "title": "Olivos - Vincent van Gogh",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Olivos - Vincent van Gogh.webp",
+  "category": "Clasicos"
+},
+{
+  "id": 287,
+  "title": "Pasión",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pasión.webp",
+  "category": "Mandela"
+},
+{
+  "id": 288,
+  "title": "Serenidad",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Serenidad.webp",
+  "category": "Mandela"
+},
+{
+  "id": 289,
+  "title": "Súper Nova",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Súper Nova.webp",
+  "category": "Mandela"
+},
+{
+  "id": 290,
+  "title": "Cuarteto",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cuarteto.webp",
+  "category": "Mandela"
+},
+{
+  "id": 291,
+  "title": "Aro de Fuego",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Aro de Fuego.webp",
+  "category": "Mandela"
+},
+{
+  "id": 292,
+  "title": "Origen",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Origen.webp",
+  "category": "Mandela"
+},
+{
+  "id": 293,
+  "title": "Estrella Tartésica",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Estrella Tartésica.webp",
+  "category": "Mandela"
+},
+{
+  "id": 294,
+  "title": "Caleidoscopio",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Caleidoscopio.webp",
+  "category": "Mandela"
+},
+{
+  "id": 295,
+  "title": "Bikini",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bikini.webp",
+  "category": "Mandela"
+},
+{
+  "id": 296,
+  "title": "Agujero Negro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Agujero Negro.webp",
+  "category": "Mandela"
+},
+{
+  "id": 297,
+  "title": "Flor",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Florr.webp",
+  "category": "Mandela"
+},
+{
+  "id": 298,
+  "title": "Rayos Gamma",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rayos Gamma.webp",
+  "category": "Mandela"
+},
+{
+  "id": 299,
+  "title": "Paranormal",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paranormal.webp",
+  "category": "Mandela"
+},
+{
+  "id": 300,
+  "title": "Fractal",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fractal.webp",
+  "category": "Mandela"
+},
+{
+  "id": 301,
+  "title": "Fénix",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fénix.webp",
+  "category": "Mandela"
+},
+{
+  "id": 302,
+  "title": "Sol",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Sol.webp",
+  "category": "Mandela"
+},
+{
+  "id": 303,
+  "title": "Catedral",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Catedral.webp",
+  "category": "Mandela"
+},
+{
+  "id": 304,
+  "title": "En Llamas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/En Llamas.webp",
+  "category": "Mandela"
+},
+{
+  "id": 305,
+  "title": "Infinito",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Infinito.webp",
+  "category": "Mandela"
+},
+{
+  "id": 306,
+  "title": "El Universo Observable",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/El Universo Observable.webp",
+  "category": "Mandela"
+},
+{
+  "id": 307,
+  "title": "A Través de la Mandala",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/A Través de la Mandala.webp",
+  "category": "Mandela"
+},
+{
+  "id": 308,
+  "title": "Caída del Cielo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Caída del Cielo.webp",
+  "category": "Mandela"
+},
+{
+  "id": 309,
+  "title": "Cielo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cielo.webp",
+  "category": "Mandela"
+},
+{
+  "id": 310,
+  "title": "Super Saiyajin",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Super Saiyajin.webp",
+  "category": "Animación"
+},
+{
+  "id": 311,
+  "title": "Death Note",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Death Note.webp",
+  "category": "Animación"
+},
+{
+  "id": 312,
+  "title": "Ilustración de Naruto",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Ilustración de Naruto.webp",
+  "category": "Animación"
+},
+{
+  "id": 313,
+  "title": "Robot de Guerra",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Robot de Guerra.webp",
+  "category": "Animación"
+},
+{
+  "id": 314,
+  "title": "ANBU",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/ANBU.webp",
+  "category": "Animación"
+},
+{
+  "id": 315,
+  "title": "Alas de Libertad",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Alas de Libertad.webp",
+  "category": "Animación"
+},
+{
+  "id": 316,
+  "title": "Heterocromía",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Heterocromía.webp",
+  "category": "Animación"
+},
+{
+  "id": 317,
+  "title": "Un Saludo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Un Saludo.webp",
+  "category": "Animación"
+},
+{
+  "id": 318,
+  "title": "La Máscara",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/La Máscara.webp",
+  "category": "Animación"
+},
+{
+  "id": 319,
+  "title": "Témenos",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Témenos.webp",
+  "category": "Animación"
+},
+{
+  "id": 320,
+  "title": "Gokū vs Vegeta",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Gokū vs Vegeta.webp",
+  "category": "Animación"
+},
+{
+  "id": 321,
+  "title": "Pikachu",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pikachu.webp",
+  "category": "Animación"
+},
+{
+  "id": 322,
+  "title": "Apocalipsis Pokémon",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Apocalipsis Pokémon.webp",
+  "category": "Animación"
+},
+{
+  "id": 323,
+  "title": "Japón Neón",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Japón Neón.webp",
+  "category": "Animación"
+},
+{
+  "id": 324,
+  "title": "Enfréntame",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Enfréntame.webp",
+  "category": "Animación"
+},
+{
+  "id": 325,
+  "title": "Mirada Coqueta",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Mirada Coqueta.webp",
+  "category": "Animación"
+},
+{
+  "id": 326,
+  "title": "Eyes Talk",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Eyes Talk.webp",
+  "category": "Animación"
+},
+{
+  "id": 327,
+  "title": "¿Bailamos?",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bailamos.png",
+  "category": "Animación"
+},
+{
+  "id": 328,
+  "title": "Brandon by Miguel Mauro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/brandon.webp",
+  "category": "Animación"
+},
+{
+  "id": 329,
+  "title": "Centro de cdmx",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Centro de cdmx.webp",
+  "category": "Paises"
+},
+{
+  "id": 330,
+  "title": "Museo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Museo.webp",
+  "category": "Paises"
+},
+{
+  "id": 331,
+  "title": "Bandera",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/bandera.webp",
+  "category": "Paises"
+},
+{
+  "id": 332,
+  "title": "Protoestrella",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Protoestrella.webp",
+  "category": "Universo"
+},
+{
+  "id": 333,
+  "title": "Newton, MA",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Newton, MA.webp",
+  "category": "Universo"
+},
+{
+  "id": 334,
+  "title": "Sol",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Sol.webp",
+  "category": "Universo"
+},
+{
+  "id": 335,
+  "title": "Aurora",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Aurora.webp",
+  "category": "Universo"
+},
+{
+  "id": 336,
+  "title": "Magnetar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Magnetar.webp",
+  "category": "Universo"
+},
+{
+  "id": 337,
+  "title": "Luna Roja",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Luna Roja.webp",
+  "category": "Universo"
+},
+{
+  "id": 338,
+  "title": "El Espacio Desde la Montaña",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/El Espacio Desde la Montaña.webp",
+  "category": "Universo"
+},
+{
+  "id": 339,
+  "title": "Agujero Negro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Agujero Negro.webp",
+  "category": "Universo"
+},
+{
+  "id": 340,
+  "title": "Vía Láctea",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vía Láctea.webp",
+  "category": "Universo"
+},
+{
+  "id": 341,
+  "title": "Galaxia Naranja",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Galaxia Naranja.webp",
+  "category": "Universo"
+},
+{
+  "id": 342,
+  "title": "Fases del Eclipse Solar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fases del Eclipse Solar.webp",
+  "category": "Universo"
+},
+{
+  "id": 343,
+  "title": "Fantasía",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Fantasía.webp",
+  "category": "Universo"
+},
+{
+  "id": 344,
+  "title": "Explosión Solar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Explosión Solar.webp",
+  "category": "Universo"
+},
+{
+  "id": 345,
+  "title": "Estrella de Neutrones",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Estrella de Neutrones.webp",
+  "category": "Universo"
+},
+{
+  "id": 346,
+  "title": "Enana Blanca",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Enana Blanca.webp",
+  "category": "Universo"
+},
+{
+  "id": 347,
+  "title": "Eclipse Solar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Eclipse Solar.webp",
+  "category": "Universo"
+},
+{
+  "id": 348,
+  "title": "Cuásar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cuásar.webp",
+  "category": "Universo"
+},
+{
+  "id": 349,
+  "title": "Cometa",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cometa.webp",
+  "category": "Universo"
+},
+{
+  "id": 350,
+  "title": "Cometa en Islandia",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cometa en Islandia.webp",
+  "category": "Universo"
+},
+{
+  "id": 351,
+  "title": "Blazar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Blazar.webp",
+  "category": "Universo"
+},
+{
+  "id": 352,
+  "title": "Kepler-186f",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Kepler-186f.webp",
+  "category": "Universo"
+},
+{
+  "id": 353,
+  "title": "Nebulosa Púrpura",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nebulosa Púrpura.webp",
+  "category": "Universo"
+},
+{
+  "id": 354,
+  "title": "Agujero de Gusano",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Agujero de Gusano.webp",
+  "category": "Universo"
+},
+{
+  "id": 355,
+  "title": "Faces de la Luna",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Faces de la Luna.webp",
+  "category": "Universo"
+},
+{
+  "id": 356,
+  "title": "Noche de Estrellas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Noche de Estrellas.webp",
+  "category": "Universo"
+},
+{
+  "id": 357,
+  "title": "Cielo Nublado",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cielo Nublado.webp",
+  "category": "Universo"
+},
+{
+  "id": 358,
+  "title": "Subsatélite Expulsado a la Órbita Lunar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Subsatélite Expulsado a la Órbita Lunar.webp",
+  "category": "Universo"
+},
+{
+  "id": 359,
+  "title": "Odisea Sobre el Amanecer Marciano",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Odisea Sobre el Amanecer Marciano.webp",
+  "category": "Universo"
+},
+{
+  "id": 360,
+  "title": "Gato Enfadado",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Gato Enfadado.webp",
+  "category": "Animales"
+},
+{
+  "id": 361,
+  "title": "Galope",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Galope.webp",
+  "category": "Animales"
+},
+{
+  "id": 362,
+  "title": "Elefante de Frente",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Elefante de Frente.webp",
+  "category": "Animales"
+},
+{
+  "id": 363,
+  "title": "Depredador",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Depredador.webp",
+  "category": "Animales"
+},
+{
+  "id": 364,
+  "title": "Cuervo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cuervo.webp",
+  "category": "Animales"
+},
+{
+  "id": 365,
+  "title": "Caballo Plano Detalle",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Caballo Plano Detalle.webp",
+  "category": "Animales"
+},
+{
+  "id": 366,
+  "title": "Alce",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Alce.webp",
+  "category": "Animales"
+},
+{
+  "id": 367,
+  "title": "En Busca de Néctar 2.0",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/En Busca de Néctar 2.0.webp",
+  "category": "Animales"
+},
+{
+  "id": 368,
+  "title": "Plumaje",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Plumaje.webp",
+  "category": "Animales"
+},
+{
+  "id": 369,
+  "title": "Posado Sobre una Flor",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Posado Sobre una Flor.webp",
+  "category": "Animales"
+},
+{
+  "id": 370,
+  "title": "Colibrí Platino",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Colibrí Platino.webp",
+  "category": "Animales"
+},
+{
+  "id": 371,
+  "title": "En Busca de Néctar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/En Busca de Néctar.webp",
+  "category": "Animales"
+},
+{
+  "id": 372,
+  "title": "Colibrí en una Rama",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Colibrí en una Rama.webp",
+  "category": "Animales"
+},
+{
+  "id": 373,
+  "title": "Colibrí Artista",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Colibrí Artista.webp",
+  "category": "Animales"
+},
+{
+  "id": 374,
+  "title": "A la Deriva",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/A la Deriva.webp",
+  "category": "Animales"
+},
+{
+  "id": 375,
+  "title": "Colibrí en la Nada",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Colibrí en la Nada.webp",
+  "category": "Animales"
+},
+{
+  "id": 376,
+  "title": "Zorro a Lápiz",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Zorro a Lápiz.webp",
+  "category": "Animales"
+},
+{
+  "id": 377,
+  "title": "Aves Animadas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Aves Animadas.webp",
+  "category": "Animales"
+},
+{
+  "id": 378,
+  "title": "Voy a Tomar Aire",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Voy a Tomar Aire.webp",
+  "category": "Animales"
+},
+{
+  "id": 379,
+  "title": "Parvada",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Parvada.webp",
+  "category": "Animales"
+},
+{
+  "id": 380,
+  "title": "Par de Miradas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Par de Miradas.jpg",
+  "category": "Animales"
+},
+{
+  "id": 381,
+  "title": "Amor en la Selva",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Amor en la Selva.webp",
+  "category": "Animales"
+},
+{
+  "id": 382,
+  "title": "Medusa Bebé",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Medusa Bebé.webp",
+  "category": "Animales"
+},
+{
+  "id": 383,
+  "title": "Medusas en el Abismo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Medusas en el Abismo.webp",
+  "category": "Animales"
+},
+{
+  "id": 384,
+  "title": "Perfil del Loro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Perfil del Loro.webp",
+  "category": "Animales"
+},
+{
+  "id": 385,
+  "title": "Tortuga Verde",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Tortuga Verde.webp",
+  "category": "Animales"
+},
+{
+  "id": 386,
+  "title": "El Pug Modelo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/El Pug Modelo.webp",
+  "category": "Animales"
+},
+{
+  "id": 387,
+  "title": "Foto Escolar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Foto Escolar.webp",
+  "category": "Animales"
+},
+{
+  "id": 388,
+  "title": "Cielo y nubes rosas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cielo y nubes rosas.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 389,
+  "title": "Perfección",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Perfección.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 390,
+  "title": "Beatenberg",
+  "price": "980.00 MXN",
+  "image": "productsImg/Beatenberg.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 391,
+  "title": "Cascada",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/cascada.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 392,
+  "title": "Árboles en la Montaña",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Árboles en la Montaña.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 393,
+  "title": "Telaraña",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/telaraña.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 394,
+  "title": "Rosa Blanca",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rosa Blanca.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 395,
+  "title": "Rosa Roja",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rosa Roja.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 396,
+  "title": "Rosa Desgastada",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rosa Desgastada.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 397,
+  "title": "Rayos de Sol",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Rayos de Sol.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 398,
+  "title": "Racimo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Racimo.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 399,
+  "title": "Paisaje de Invierno",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje de Invierno.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 400,
+  "title": "Nubes en la Cierra",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Nubes en la Cierra.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 401,
+  "title": "Monte Rainier",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Monte Rainier.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 402,
+  "title": "Media Luna",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Media Luna.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 403,
+  "title": "Lirio de Agua",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lirio de Agua.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 404,
+  "title": "Copas Desnudas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Copas Desnudas.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 405,
+  "title": "Diente de León",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Diente de León.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 406,
+  "title": "Diente de León en el Viento",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Diente de León en el Viento.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 407,
+  "title": "Cielo Nocturno",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cielo Nocturno.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 408,
+  "title": "Árboles Desnudos",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Árboles Desnudos.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 409,
+  "title": "Árbol",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Árbol.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 410,
+  "title": "Árbol Invernal",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Árbol Invernal.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 411,
+  "title": "Tulipanes",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Tulipanes.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 412,
+  "title": "Flor Arcoíris",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Flor Arcoíris.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 413,
+  "title": "Roses",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Roses.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 414,
+  "title": "Magia de Otoño",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Magia de Otoño.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 415,
+  "title": "Isla Paraíso",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Isla Paraíso.webp",
+  "category": "Naturaleza"
+},
+{
+  "id": 416,
+  "title": "Campo de Girasoles",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Campo de Girasoles.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 417,
+  "title": "Bosque de Munnar",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bosque de Munnar.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 418,
+  "title": "Campo de Hierba por la Tarde",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Campo de Hierba por la Tarde.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 419,
+  "title": "Desde la Cúspide",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Desde la Cúspide.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 420,
+  "title": "Monte Tamalpais",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Monte Tamalpais.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 421,
+  "title": "Pico Chapman",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Pico Chapman.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 422,
+  "title": "Isla Desde el Cielo",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Isla Desde el Cielo.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 423,
+  "title": "Península Cape Town",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Península Cape Town.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 424,
+  "title": "Lago di Braies",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lago di Braies.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 425,
+  "title": "Lago en Helsinki",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lago en Helsinki.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 426,
+  "title": "Lago de Ucrania",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lago de Ucrania.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 427,
+  "title": "Reflejo de la Montaña",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Reflejo de la Montaña.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 428,
+  "title": "Cascada en Skogafoss",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cascada en Skogafoss.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 429,
+  "title": "Vista de Bertinoro",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vista de Bertinoro.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 430,
+  "title": "Cascadas en Skye",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Cascadas en Skye.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 431,
+  "title": "Avioneta Sobre el Lago",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Avioneta Sobre el Lago.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 432,
+  "title": "Campo en la Toscana",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Campo en la Toscana.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 433,
+  "title": "Isla Black Rock VIC",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Isla Black Rock VIC.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 434,
+  "title": "Olas en Red Bluff",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Olas en Red Bluff.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 435,
+  "title": "Lago Thun",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lago Thun.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 436,
+  "title": "Santa Bárbara",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Santa Bárbara.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 437,
+  "title": "Desierto",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Desierto.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 438,
+  "title": "Burbuja de Agua",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Burbuja de Agua.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 439,
+  "title": "Bosque en Eslovenia",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Bosque en Eslovenia.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 440,
+  "title": "Paisaje en Kargil",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Paisaje en Kargil.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 441,
+  "title": "Holanda en las Alturas",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Holanda en las Alturas.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 442,
+  "title": "Lago Mono",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Lago Mono.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 443,
+  "title": "Valle de Fire Hwy",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Valle de Fire Hwy.webp",
+  "category": "Paisajes"
+},
+{
+  "id": 444,
+  "title": "El Montículo del Lanzador",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/El Montículo del Lanzador.webp",
+  "category": "Deportes"
+},
+{
+  "id": 445,
+  "title": "The Duke",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/The Duke.webp",
+  "category": "Deportes"
+},
+{
+  "id": 446,
+  "title": "Surfeando en la Montaña",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Surfeando en la Montaña.webp",
+  "category": "Deportes"
+},
+{
+  "id": 447,
+  "title": "A Surfear",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/A Surfear.webp",
+  "category": "Deportes"
+},
+{
+  "id": 448,
+  "title": "Punto de Vista",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Punto de Vista.webp",
+  "category": "Deportes"
+},
+{
+  "id": 449,
+  "title": "De 3 Puntos",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/De 3 Puntos.webp",
+  "category": "Deportes"
+},
+{
+  "id": 450,
+  "title": "Tiro Libre",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Tiro Libre.webp",
+  "category": "Deportes"
+},
+{
+  "id": 451,
+  "title": "Máxima Velocidad",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Máxima Velocidad.webp",
+  "category": "Deportes"
+},
+{
+  "id": 452,
+  "title": "Perfil del Remolino",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Perfil del Remolino.webp",
+  "category": "Deportes"
+},
+{
+  "id": 453,
+  "title": "Remolino",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Remolino.webp",
+  "category": "Deportes"
+},
+{
+  "id": 454,
+  "title": "Vista Aérea",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Vista Aérea.webp",
+  "category": "Deportes"
+},
+{
+  "id": 455,
+  "title": "Arte en la Cancha",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Arte en la Cancha.webp",
+  "category": "Deportes"
+},
+{
+  "id": 456,
+  "title": "Ángulo de la Victoria",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Ángulo de la Victoria.webp",
+  "category": "Deportes"
+},
+{
+  "id": 457,
+  "title": "Afición",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Afición.webp",
+  "category": "Deportes"
+},
+{
+  "id": 458,
+  "title": "Control",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/Control.webp",
+  "category": "Deportes"
+},
+{
+  "id": 459,
+  "title": "De la Vieja Escuela",
+  "price": "1,100.00 MXN",
+  "image": "productsImg/De la Vieja Escuela.webp",
+  "category": "Deportes"
+}
+
+
+]
